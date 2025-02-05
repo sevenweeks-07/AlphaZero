@@ -1,0 +1,3 @@
+/mnt/c/Users/saatv/OneDrive/Desktop/Projects/cpp/build/CMakeFiles/main.dir
+/mnt/c/Users/saatv/OneDrive/Desktop/Projects/cpp/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/saatv/OneDrive/Desktop/Projects/cpp/build/CMakeFiles/rebuild_cache.dir
