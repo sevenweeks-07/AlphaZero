@@ -1,5 +1,5 @@
 CMakeFiles/main.dir/main.cpp.o: \
- /mnt/c/Users/saatv/OneDrive/Desktop/Projects/cpp/main.cpp \
+ /mnt/c/Users/saatv/OneDrive/Desktop/Project/cpp/main.cpp \
  /usr/include/stdc-predef.h \
  /mnt/c/libtorch/include/torch/csrc/api/include/torch/torch.h \
  /mnt/c/libtorch/include/torch/csrc/api/include/torch/all.h \

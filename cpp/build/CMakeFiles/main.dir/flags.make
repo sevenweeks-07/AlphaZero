@@ -6,5 +6,5 @@ CXX_DEFINES = -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE
 
 CXX_INCLUDES = -isystem /mnt/c/libtorch/include -isystem /mnt/c/libtorch/include/torch/csrc/api/include
 
-CXX_FLAGS =  -fprofile-arcs -ftest-coverage -g -std=c++17 -D_GLIBCXX_USE_CXX11_ABI=1
+CXX_FLAGS =  -lprofiler -std=c++17 -D_GLIBCXX_USE_CXX11_ABI=1
 
